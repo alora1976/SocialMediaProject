@@ -1,0 +1,8 @@
+I will be using MERN stack and will attempt to use Google Authentication if I can get it to work for creating an account
+
+For my project I will be building a media sharing app(similar to Pinterest) where users can comment and upload media once they create an account.
+Initally I will only use images for the media type but would like to evenutally add videos.
+Users will be able to search the images library and find images that are categorized by subject matter.
+Example: User can search "pets" and will get images related to that search.
+Github repo : https://github.com/alora1976/SocialMediaProject
+
